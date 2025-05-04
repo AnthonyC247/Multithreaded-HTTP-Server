@@ -1,6 +1,6 @@
 # Multithreaded HTTP Server with Atomic Requests and Coherent Logs
 
-`httpserver` is a multithreaded http server that runs on localhost and serves atomic file requests from multiple clients. The server distributes work amongst threads by using a work queue and it coherently logs the order of requests. It implements two standard http methods (`PUT` and `GET`) and one non-standard http method (`APPEND`).
+`httpserver` is a multithreaded http server that runs on localhost and serves atomic file requests from multiple clients. The server distributes work amongst threads by using a work queue and it coherently logs the order of requests. It implements two standard http methods (`PUT` and `GET`) 
 
 ## Design
 
