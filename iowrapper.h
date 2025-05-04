@@ -1,10 +1,4 @@
-/**
- * @File asgn2_helper_funcs.h
- *
- * Interfaces provided as starter code for Assignment 2.
- *
- * @author Andrew Quinn
- */
+
 
 #pragma once
 

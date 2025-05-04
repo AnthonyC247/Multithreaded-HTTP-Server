@@ -1,11 +1,3 @@
-/**
- * @File rwlock.h
- *
- * The header file that you need to implement for assignment 3.
- *
- * @author Andrew Quinn, Mitchell Elliott, and Gurpreet Dhillon.
- */
-
 #pragma once
 
 #include <stdint.h>

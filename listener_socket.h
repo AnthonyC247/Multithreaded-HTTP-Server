@@ -1,11 +1,3 @@
-/**
- * @File litener_socket.h
- *
- * Interfaces provided as starter code for Assignment 2.
- *
- * @author Andrew Quinn
- */
-
 #pragma once
 
 typedef struct Listener_Socket Listener_Socket_t;
